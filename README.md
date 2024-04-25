@@ -5,7 +5,7 @@ Dev/Engineer at [6Clicks](https://6clicks.io)
 ---
 
 Languages: `TS | JS | CSS | HTML | PYTHON | PHP`\
-Frameworks: `ANGULAR | REACT | NEXT | WP `
+Frameworks: `ANGULAR | REACT | NEXT | WP | LARAVEL MIX(VUE)`
 
 ---
 
