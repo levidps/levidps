@@ -1,6 +1,6 @@
 #### DESIGNER -> DEV
 
-Dev/Engineer at [Today's Plan](https://whats.todaysplan.com.au)
+Dev/Engineer at [6Clicks](https://6clicks.io)
 
 ---
 
